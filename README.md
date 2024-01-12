@@ -12,3 +12,7 @@ BarcodeScannerApp is a simple iOS app built with SwiftUI and UIKit that enables 
 
 ## Screenshots
 
+<img src="https://github.com/mayank-raj1/SimpleBarcodeScanner/blob/29f1e528a2e9497f7322a3b5e768c90dbe4d0757/ScreenShots/1.jpeg" width="200px"/>
+
+<img src="https://github.com/mayank-raj1/SimpleBarcodeScanner/blob/29f1e528a2e9497f7322a3b5e768c90dbe4d0757/ScreenShots/2.jpeg" width="200px"/>
+
